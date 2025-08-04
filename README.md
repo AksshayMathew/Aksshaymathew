@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aksshay Mathew P</h1>
-<h3 align="center">A BTech graduate driven by curiosity and a strong passion for deep learning</h3>
+<h3 align="center">A deep learning enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
